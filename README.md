@@ -21,12 +21,6 @@ git clone git@github.com:guycanella/handling-posts-info.git
 Second, install the dependencies
 
 ```
-yarn
-```
-
-or
-
-```
 npm install
 ```
 
